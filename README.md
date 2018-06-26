@@ -8,4 +8,4 @@ Welcome to vq783 documentation site!
 
 1. [File No:3](file3.md)
 
-### GitHub official web-page :[here](https://github.com/)
+### [GitHub official web-page](https://github.com/)
